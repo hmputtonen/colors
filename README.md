@@ -1,4 +1,4 @@
-#Color picker -web page
+# Color picker -web page
 HTML- &amp; CSS -based + responsive 
 
 
